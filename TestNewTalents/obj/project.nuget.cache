@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Dm0UWFOoqEVjRQvmYk9SXfIaNtqHGIZEKnBwZF+JEGhcW6rcO6Lt2pyv/jWik+saP2ChwJo+Io63RnliwMrNw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\DIO\\TestNewTalents\\TestNewTalents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit\\2.8.0\\xunit.2.8.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.analyzers\\1.13.0\\xunit.analyzers.1.13.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.assert\\2.8.0\\xunit.assert.2.8.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.core\\2.8.0\\xunit.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.extensibility.core\\2.8.0\\xunit.extensibility.core.2.8.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512",
+    "C:\\Users\\pedro.franca\\.nuget\\packages\\xunit.runner.visualstudio\\2.8.0\\xunit.runner.visualstudio.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
