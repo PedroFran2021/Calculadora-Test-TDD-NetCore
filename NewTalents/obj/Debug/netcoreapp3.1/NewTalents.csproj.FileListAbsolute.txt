@@ -1,0 +1,13 @@
+D:\WorkSpace\Cursos DIO\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\WorkSpace\Cursos DIO\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\WorkSpace\Cursos DIO\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\WorkSpace\Cursos DIO\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\WorkSpace\Cursos DIO\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\WorkSpace\Cursos DIO\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\WorkSpace\Cursos DIO\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
